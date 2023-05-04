@@ -1,0 +1,17 @@
+.banner{
+    background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c5b513bc-c2f4-4161-84ad-4ad2b64b0ac7/d4mzgz6-759ea18e-d6bc-4757-a01a-afe3077fccab.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M1YjUxM2JjLWMyZjQtNDE2MS04NGFkLTRhZDJiNjRiMGFjN1wvZDRtemd6Ni03NTllYTE4ZS1kNmJjLTQ3NTctYTAxYS1hZmUzMDc3ZmNjYWIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zx3qw6OIxCVFLpPqSsyEFR5uZb2rLmgjA4cjcctRlho);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.card img{
+    transition: all 1s ease;
+    box-shadow: 5px 5px 5px .5px;
+}
+.card{
+    box-shadow: 2px 2px 2px .5px;
+}
+.card:hover img{
+    transform: scale(1.1);
+    
+}
